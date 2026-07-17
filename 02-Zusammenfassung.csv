@@ -1,0 +1,29 @@
+ValueSet;Total Codes;IVR-only Codes;Already SNOMED;Direct Mappable;Subsumption/Grouped;Not Mappable (Swiss-specific);Replacement Rate %;Priority;Notes
+IVR NACA;8;8;0;8;0;0;100%;HIGH;Quick Win - NACA Score Standard
+IVR Mission Type;3;3;0;3;0;0;100%;HIGH;Transport/Encounter Typen
+IVR Transport Reason;15;15;0;15;0;0;100%;HIGH;Mission Trigger
+IVR Urgency;2;2;0;2;0;0;100%;HIGH;Siren vs. No Siren
+IVR Person Role;6;5;1;5;0;0;100%;HIGH;Begleitpersonen
+IVR Team Role;15;5;10;5;0;0;100%;MEDIUM;5 IVR -> SNOMED 10 bereits SNOMED
+IVR Event;13;1;12;1;0;0;100%;LOW;Nur 1 Code (no info) ersetzbar
+IVR Ambulance Type;5;0;5;0;0;0;100%;DONE;Bereits voll SNOMED
+IVR Transport Bedding;11;9;2;9;0;0;100%;HIGH;Patientenlagerung
+IVR Cold Exposure;4;4;0;4;0;0;100%;HIGH;Frostbite Grade 1-4
+IVR Heat Exposure;3;3;0;3;0;0;100%;HIGH;Burn Grade 1-3
+IVR Death Manner;3;0;3;0;0;0;100%;DONE;Bereits voll SNOMED
+IVR Violence Form;13;8;5;8;0;0;100%;MEDIUM;8 IVR -> 4 SNOMED (Konsolidierung)
+IVR Identification Medium;7;7;0;7;0;0;100%;LOW;Schweiz-spezifisch (ID-Dokumente)
+IVR Valuables Type;9;8;1;8;0;0;100%;LOW;Schweiz-spezifisch (Wertsachen)
+IVR Formation;9;2;7;0;2;0;100%;MEDIUM;2 Ausbildungs-Codes -> Subsumption
+IVR Location Type;12;1;11;1;0;0;100%;LOW;Nur unknown ersetzbar
+IVR Vigilanz AVPU;4;4;0;4;0;0;100%;HIGH;AVPU = SNOMED Standard
+IVR Symptom;27;3;24;3;0;0;100%;HIGH;3 Meta-Codes
+IVR Diagnosis Type;4;0;4;0;0;0;100%;DONE;Bereits voll SNOMED
+IVR Findings Airway;8;0;8;0;0;0;100%;DONE;Bereits voll SNOMED
+IVR Pretreatment;4;2;2;2;0;0;100%;HIGH;First responder Layperson
+IVR Pretreatment Type;7;0;7;0;0;0;100%;DONE;Bereits voll SNOMED
+IVR Procedure Airway Type;5;0;5;0;0;0;100%;DONE;Bereits voll SNOMED
+IVR Emergency Doctor System;3;3;0;3;0;0;100%;MEDIUM;Schweiz-spezifisch (RD-Systeme)
+IVR Transport Disinfection;3;2;1;2;0;0;100%;LOW;2 H2O2-Methoden -> 1 Disinfection
+IVR Yes/No/Unknown;3;0;3;0;0;0;100%;DONE;Bereits voll SNOMED
+TOTAL;193;90;103;88;2;0;94.3%;;

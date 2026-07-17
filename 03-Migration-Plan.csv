@@ -1,0 +1,7 @@
+Phase;ValueSets;IVR Codes to Map;Effort (Tage);Dependencies;Deliverable
+Phase 1 - Quick Wins (Clinical Scores);IVR NACA IVR Vigilanz AVPU IVR Cold Exposure IVR Heat Exposure IVR Symptom (3 Codes);28;2;Keine;4 ConceptMaps + ValueSet Updates
+Phase 2 - Mission/Transport Core;IVR Mission Type IVR Transport Reason IVR Urgency IVR Pretreatment;22;3;Phase 1;5 ConceptMaps + ValueSet Updates
+Phase 3 - Personnel & Roles;IVR Person Role IVR Team Role IVR Formation;15;3;Phase 1-2;3 ConceptMaps + ValueSet Updates
+Phase 4 - Already SNOMED (Validierung);IVR Diagnosis Type IVR Findings Airway IVR Pretreatment Type IVR Procedure Airway Type IVR Death Manner IVR Yes/No/Unknown IVR Ambulance Type;0;0;Keine;Validierung - bereits SNOMED
+Phase 5 - Swiss-Specific (Beibehalten/Erweitern);IVR Identification Medium IVR Valuables Type IVR Emergency Doctor System IVR Transport Disinfection IVR Location Type (1) IVR Event (1) IVR Team Role (bereits 10);23;5;Phase 2-3;Extension beibehalten SNOMED Supplement
+TOTAL;;88;13;;;

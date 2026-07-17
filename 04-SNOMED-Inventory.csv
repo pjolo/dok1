@@ -1,0 +1,130 @@
+SNOMED CT Code;SNOMED CT Display (EN);SNOMED CT Display (DE);Used In ValueSets;Count
+260413007;None;Keine/Kein;IVR NACA IVR Violence Form IVR Pretreatment IVR Transport Disinfection IVR Pretreatment Type;5
+255604002;Mild;Leicht;IVR NACA;1
+6736007;Moderate;Massig;IVR NACA;1
+24484000;Severe;Schwer;IVR NACA;1
+419099009;Cardiac arrest / Death;Herzstillstand/Tod;IVR NACA (3x);3
+89666000;Cardiopulmonary resuscitation;Reanimation;IVR NACA IVR Pretreatment Type;2
+409063005;Emergency care;Notfallversorgung;IVR Mission Type IVR Transport Reason (4x);5
+183452005;Interfacility transfer;Interinstitutioneller Transfer;IVR Mission Type IVR Transport Reason (2x);3
+386426000;Patient transport;Patiententransport;IVR Mission Type IVR Transport Reason (4x) IVR EmergDocSys (3x);8
+386433008;Service on scene / Patient transport;Service vor Ort;IVR Transport Reason (2x);2
+258770002;Urgent;Dringend;IVR Urgency;1
+182777000;Non-urgent;Nicht dringend;IVR Urgency;1
+309343006;Physician / Caregiver / Legal guardian;Arzt/Betreuer/Vertreter;IVR Person Role (3x) IVR Team Role;4
+419112000;Heir / Parent / Identity doc / Personal effect;Erbe/Elternteil/ID-Dokument/Pers.Gegenstand;IVR Person Role (2x) IVR IdMedium (6x) IVR Valuables (8x) IVR Symptom;17
+74964007;Other;Andere;IVR Person Role IVR Team Role IVR Event IVR Ambulance Type IVR Transport Bedding IVR Death Manner IVR Violence Form IVR Valuables IVR Location Type IVR Pretreatment Type;10
+223366009;Healthcare prof. / Driver / Trainee / Security;Gesundheitsfachperson/Fahrer/In Ausbildung/Praktikant/Sicherheit;IVR Team Role (5x) IVR Pretreatment;6
+28411006;Neonatologist;Neonatologe;IVR Team Role;1
+224549000;Neonatal nurse;Neonatologie-Pflege;IVR Team Role;1
+308040008;Pilot;Pilot;IVR Team Role;1
+133932002;Caregiver;Betreuer;IVR Team Role;1
+309453006;Registered midwife;Hebamme;IVR Team Role IVR Formation;2
+106292003;Professional nurse;Pflegefachperson;IVR Team Role IVR Formation;2
+62247001;Family medicine specialist;Hausarzt;IVR Team Role;1
+261665006;Unknown;Unbekannt;IVR Event IVR Location Type IVR Symptom (2x) IVR Yes/No/Unknown;5
+39104002;Illness;Krankheit;IVR Event;1
+52684005;Assault;Uberfall;IVR Event IVR Violence Form;2
+19440001;Explosion;Explosion;IVR Event;1
+80032004;Fire;Brand;IVR Event;1
+1912002;Fall;Sturz;IVR Event;1
+7542004;Work accident;Arbeitsunfall;IVR Event;1
+57701003;Sports accident;Sportunfall;IVR Event;1
+1631000175102;Patient not asked;Nicht erfragt;IVR Event;1
+79573009;Household accident;Haushaltsunfall;IVR Event;1
+418161006;Vehicle accident;Verkehrsunfall;IVR Event;1
+83887000;Rescue vehicle;Rettungswagen;IVR Ambulance Type;1
+465341007;Automobile ambulance;Einsatzambulanz;IVR Ambulance Type;1
+55121009;Light land transport vehicle;Notarzt-Zubringer;IVR Ambulance Type;1
+469233002;Helicopter ambulance;Rettungshelikopter;IVR Ambulance Type;1
+73957001;Air transport ambulance;Ambulanz-Jet;IVR Ambulance Type;1
+722991004;Sitting position;Sitzend;IVR Transport Bedding;1
+722994007;Semi-recumbent position;Halbliegend;IVR Transport Bedding;1
+722995008;Supine position;Liegend;IVR Transport Bedding;1
+423212001;Trendelenburg positioning;Trendelenburg-Lage;IVR Transport Bedding (2x);2
+722997000;Legs dependent;Beine tief;IVR Transport Bedding;1
+722998005;Knee-chest position;Knie-Brust-Lage;IVR Transport Bedding;1
+722999002;Prone position;Bauchlage;IVR Transport Bedding;1
+723000009;Left lateral position;Seitenlage links;IVR Transport Bedding;1
+723001008;Right lateral position;Seitenlage rechts;IVR Transport Bedding;1
+36296008;Frostbite first degree;Erfrierung 1. Grades;IVR Cold Exposure;1
+36297004;Frostbite second degree;Erfrierung 2. Grades;IVR Cold Exposure;1
+36298009;Frostbite third degree;Erfrierung 3. Grades;IVR Cold Exposure;1
+36299001;Frostbite fourth degree;Erfrierung 4. Grades;IVR Cold Exposure;1
+83433008;Burn first degree;Verbrennung 1. Grades;IVR Heat Exposure;1
+83434002;Burn second degree;Verbrennung 2. Grades;IVR Heat Exposure;1
+83435001;Burn third degree;Verbrennung 3. Grades;IVR Heat Exposure;1
+87309006;Death of unknown cause;Todesursache unklar;IVR Death Manner;1
+418309003;Suspicious death;Aussergewoehnlicher Todesfall;IVR Death Manner;1
+38605008;Natural death;Naturlicher Todesfall;IVR Death Manner;1
+284616006;Verbally threatening behaviour;Verbale Drohung;IVR Violence Form (4x);4
+12405001;Spitting;Anspucken;IVR Violence Form;1
+248109002;Sexual offence / Assault;Sexuelle Belastigung/Uberfall;IVR Violence Form (2x);2
+397897005;Paramedic;Rettungssanitater;IVR Formation (2x);2
+159738005;Ambulanceman;Transportsanitater;IVR Formation (2x);2
+309294001;Accident and emergency doctor;Notarzt;IVR Formation;1
+309445003;Anesthetic nurse;Anasthesiepfleger;IVR Formation;1
+224535009;Registered nurse;Pflegefachperson FH;IVR Formation;1
+257564005;Residential flat;Wohnung;IVR Location Type;1
+257688003;Residential home;Altersheim;IVR Location Type;1
+285141008;Work environment;Arbeitsplatz;IVR Location Type;1
+257704009;Sports ground;Sport/Freizeit;IVR Location Type;1
+257710009;Street;Strasse;IVR Location Type;1
+257674002;Public building;Offentliches Gebaude;IVR Location Type;1
+257603009;Educational establishment;Bildungseinrichtung;IVR Location Type;1
+83891005;Solo practice private office;Arztpraxis;IVR Location Type;1
+22232009;Hospital;Spital;IVR Location Type;1
+274409007;Special care unit;Pflegeheim;IVR Location Type;1
+248271000;Alert;Wach/Ansprechbar;IVR Vigilanz AVPU;1
+248272007;Responds to voice;Reagiert auf Stimme;IVR Vigilanz AVPU;1
+248273002;Responds to pain;Reagiert auf Schmerz;IVR Vigilanz AVPU;1
+248274008;Unresponsive;Ohne Reaktion;IVR Vigilanz AVPU;1
+24199005;Agitation;krankhafte Unruhe;IVR Symptom;1
+267036007;Dyspnea;Atemnot;IVR Symptom;1
+418107008;Unconsciousness;Bewusstseinsstorung;IVR Symptom;1
+131148009;Bleeding;Blutung;IVR Symptom;1
+62315008;Diarrhea;Durchfall;IVR Symptom;1
+422400008;Vomiting;Erbrechen;IVR Symptom;1
+386661006;Fever;Fieber;IVR Symptom;1
+3424008;Tachycardia;Tachykardie;IVR Symptom;1
+418363000;Itching;Juckreiz;IVR Symptom;1
+91175000;Seizure;Krampfanfall;IVR Symptom;1
+44695005;Paralysis;Lahmung;IVR Symptom;1
+80313002;Palpitations;Herzklopfen;IVR Symptom;1
+21522001;Abdominal pain;Bauchschmerzen;IVR Symptom;1
+29857009;Chest pain;Brustschmerzen;IVR Symptom;1
+162397003;Throat pain;Halsschmerzen;IVR Symptom;1
+25064002;Headache;Kopfschmerzen;IVR Symptom;1
+301354004;Ear pain;Ohrenschmerzen;IVR Symptom;1
+161891005;Backache;Ruckenschmerzen;IVR Symptom;1
+27355003;Toothache;Zahnschmerzen;IVR Symptom;1
+399153001;Vertigo;Schwindel;IVR Symptom;1
+271594007;Syncope;Synkope;IVR Symptom;1
+247412007;Labor pain;Wehen;IVR Symptom;1
+422587007;Nausea;Ubelkeit;IVR Symptom;1
+22253000;Pain;Schmerzen;IVR Symptom;1
+47965005;Differential diagnosis;Differentialdiagnose;IVR Diagnosis Type;1
+14657009;Established diagnosis;Diagnose;IVR Diagnosis Type;1
+2931005;Probable diagnosis;Verdachtsdiagnose;IVR Diagnosis Type;1
+5558000;Working diagnosis;Arbeitsdiagnose;IVR Diagnosis Type;1
+23875004;No pathologic finding;Atemwege frei;IVR Findings Airway;1
+263821009;Obstructed;Obstruiert;IVR Findings Airway;1
+68052005;Pulmonary aspiration;Aspiration;IVR Findings Airway;1
+52765003;Intubation;Intubation;IVR Findings Airway IVR Proc Airway Type;2
+48387007;Tracheostomy;Tracheostomie;IVR Findings Airway;1
+301287002;Expiratory stridor;Stridor exspiratorisch;IVR Findings Airway;1
+58596002;Inspiratory stridor;Stridor inspiratorisch;IVR Findings Airway;1
+17621005;Normal;Unauffallig;IVR Findings Airway;1
+429972003;First responder;First responder;IVR Pretreatment;1
+373784005;Dispensing medication / Disinfection;Medikation/Desinfektion;IVR Pretreatment Type IVR Transport Disinfection (2x);3
+386308007;First aid;Erste Hilfe;IVR Pretreatment Type;1
+266700009;Assisted breathing;Beatmungshilfe;IVR Pretreatment Type;1
+19257004;Defibrillator;Defibrillator/AED;IVR Pretreatment Type;1
+230040009;Airway suctioning;Absaugen Atemwege;IVR Proc Airway Type;1
+710971000;Maintaining airway clearance;Freimachen Atemwege;IVR Proc Airway Type;1
+232666000;Jaw thrust;Esmarch-Handgriff;IVR Proc Airway Type;1
+706177004;Inhalation therapy device;Inhalationsset;IVR Proc Airway Type;1
+373066001;Yes;Ja;IVR Urgency Adequate IVR Yes/No/Unknown;2
+373067005;No;Nein;IVR Urgency Adequate IVR Yes/No/Unknown;2
+183935002;Self-referral / Medical referral;Selbsteinweisung/Aerztliche Zuweisung;IVR Transport Reason (2x);2
+410605003;Refusal of transport;Transportverweigerung;IVR Transport Reason;1
